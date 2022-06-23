@@ -1,0 +1,39 @@
+C:\Users\gusta\source\repos\ProjetoGestãoPOOFinal\ProjetoGestãoPOOFinal\obj\Debug\ProjetoGestãoPOOFinal.csprojAssemblyReference.cache
+C:\Users\gusta\source\repos\ProjetoGestãoPOOFinal\ProjetoGestãoPOOFinal\obj\Debug\ProjetoGestãoPOOFinal.Form1.resources
+C:\Users\gusta\source\repos\ProjetoGestãoPOOFinal\ProjetoGestãoPOOFinal\obj\Debug\ProjetoGestãoPOOFinal.Properties.Resources.resources
+C:\Users\gusta\source\repos\ProjetoGestãoPOOFinal\ProjetoGestãoPOOFinal\obj\Debug\ProjetoGestãoPOOFinal.Form1.pt-BR.resources
+C:\Users\gusta\source\repos\ProjetoGestãoPOOFinal\ProjetoGestãoPOOFinal\obj\Debug\ProjetoGestãoPOOFinal.csproj.GenerateResource.cache
+C:\Users\gusta\source\repos\ProjetoGestãoPOOFinal\ProjetoGestãoPOOFinal\obj\Debug\ProjetoGestãoPOOFinal.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\ProjetoGestãoPOOFinal\ProjetoGestãoPOOFinal\bin\Debug\ProjetoGestãoPOOFinal.exe.config
+C:\Users\gusta\source\repos\ProjetoGestãoPOOFinal\ProjetoGestãoPOOFinal\bin\Debug\ProjetoGestãoPOOFinal.exe
+C:\Users\gusta\source\repos\ProjetoGestãoPOOFinal\ProjetoGestãoPOOFinal\bin\Debug\ProjetoGestãoPOOFinal.pdb
+C:\Users\gusta\source\repos\ProjetoGestãoPOOFinal\ProjetoGestãoPOOFinal\bin\Debug\pt-BR\ProjetoGestãoPOOFinal.resources.dll
+C:\Users\gusta\source\repos\ProjetoGestãoPOOFinal\ProjetoGestãoPOOFinal\obj\Debug\pt-BR\ProjetoGestãoPOOFinal.resources.dll
+C:\Users\gusta\source\repos\ProjetoGestãoPOOFinal\ProjetoGestãoPOOFinal\obj\Debug\ProjetoGestãoPOOFinal.exe
+C:\Users\gusta\source\repos\ProjetoGestãoPOOFinal\ProjetoGestãoPOOFinal\obj\Debug\ProjetoGestãoPOOFinal.pdb
+C:\Users\eduar\OneDrive\Área de Trabalho\Trabson POO\ProjetoGestãoPOOFinal\ProjetoGestãoPOOFinal\bin\Debug\ProjetoGestãoPOOFinal.exe.config
+C:\Users\eduar\OneDrive\Área de Trabalho\Trabson POO\ProjetoGestãoPOOFinal\ProjetoGestãoPOOFinal\bin\Debug\ProjetoGestãoPOOFinal.exe
+C:\Users\eduar\OneDrive\Área de Trabalho\Trabson POO\ProjetoGestãoPOOFinal\ProjetoGestãoPOOFinal\bin\Debug\ProjetoGestãoPOOFinal.pdb
+C:\Users\eduar\OneDrive\Área de Trabalho\Trabson POO\ProjetoGestãoPOOFinal\ProjetoGestãoPOOFinal\bin\Debug\pt-BR\ProjetoGestãoPOOFinal.resources.dll
+C:\Users\eduar\OneDrive\Área de Trabalho\Trabson POO\ProjetoGestãoPOOFinal\ProjetoGestãoPOOFinal\obj\Debug\ProjetoGestãoPOOFinal.csprojAssemblyReference.cache
+C:\Users\eduar\OneDrive\Área de Trabalho\Trabson POO\ProjetoGestãoPOOFinal\ProjetoGestãoPOOFinal\obj\Debug\ProjetoGestãoPOOFinal.Form1.resources
+C:\Users\eduar\OneDrive\Área de Trabalho\Trabson POO\ProjetoGestãoPOOFinal\ProjetoGestãoPOOFinal\obj\Debug\ProjetoGestãoPOOFinal.Properties.Resources.resources
+C:\Users\eduar\OneDrive\Área de Trabalho\Trabson POO\ProjetoGestãoPOOFinal\ProjetoGestãoPOOFinal\obj\Debug\ProjetoGestãoPOOFinal.Form1.pt-BR.resources
+C:\Users\eduar\OneDrive\Área de Trabalho\Trabson POO\ProjetoGestãoPOOFinal\ProjetoGestãoPOOFinal\obj\Debug\ProjetoGestãoPOOFinal.csproj.GenerateResource.cache
+C:\Users\eduar\OneDrive\Área de Trabalho\Trabson POO\ProjetoGestãoPOOFinal\ProjetoGestãoPOOFinal\obj\Debug\ProjetoGestãoPOOFinal.csproj.CoreCompileInputs.cache
+C:\Users\eduar\OneDrive\Área de Trabalho\Trabson POO\ProjetoGestãoPOOFinal\ProjetoGestãoPOOFinal\obj\Debug\pt-BR\ProjetoGestãoPOOFinal.resources.dll
+C:\Users\eduar\OneDrive\Área de Trabalho\Trabson POO\ProjetoGestãoPOOFinal\ProjetoGestãoPOOFinal\obj\Debug\ProjetoGestãoPOOFinal.exe
+C:\Users\eduar\OneDrive\Área de Trabalho\Trabson POO\ProjetoGestãoPOOFinal\ProjetoGestãoPOOFinal\obj\Debug\ProjetoGestãoPOOFinal.pdb
+C:\repos\Cursos\POO_Teoria_E_Lab\Programação Orientada por Objetos - Teoria\TRABALHO FINAL\ProjetoGestãoPOOFinal\ProjetoGestãoPOOFinal\bin\Debug\ProjetoGestãoPOOFinal.exe.config
+C:\repos\Cursos\POO_Teoria_E_Lab\Programação Orientada por Objetos - Teoria\TRABALHO FINAL\ProjetoGestãoPOOFinal\ProjetoGestãoPOOFinal\bin\Debug\ProjetoGestãoPOOFinal.exe
+C:\repos\Cursos\POO_Teoria_E_Lab\Programação Orientada por Objetos - Teoria\TRABALHO FINAL\ProjetoGestãoPOOFinal\ProjetoGestãoPOOFinal\bin\Debug\ProjetoGestãoPOOFinal.pdb
+C:\repos\Cursos\POO_Teoria_E_Lab\Programação Orientada por Objetos - Teoria\TRABALHO FINAL\ProjetoGestãoPOOFinal\ProjetoGestãoPOOFinal\bin\Debug\pt-BR\ProjetoGestãoPOOFinal.resources.dll
+C:\repos\Cursos\POO_Teoria_E_Lab\Programação Orientada por Objetos - Teoria\TRABALHO FINAL\ProjetoGestãoPOOFinal\ProjetoGestãoPOOFinal\obj\Debug\ProjetoGestãoPOOFinal.csproj.AssemblyReference.cache
+C:\repos\Cursos\POO_Teoria_E_Lab\Programação Orientada por Objetos - Teoria\TRABALHO FINAL\ProjetoGestãoPOOFinal\ProjetoGestãoPOOFinal\obj\Debug\ProjetoGestãoPOOFinal.Form1.resources
+C:\repos\Cursos\POO_Teoria_E_Lab\Programação Orientada por Objetos - Teoria\TRABALHO FINAL\ProjetoGestãoPOOFinal\ProjetoGestãoPOOFinal\obj\Debug\ProjetoGestãoPOOFinal.Properties.Resources.resources
+C:\repos\Cursos\POO_Teoria_E_Lab\Programação Orientada por Objetos - Teoria\TRABALHO FINAL\ProjetoGestãoPOOFinal\ProjetoGestãoPOOFinal\obj\Debug\ProjetoGestãoPOOFinal.Form1.pt-BR.resources
+C:\repos\Cursos\POO_Teoria_E_Lab\Programação Orientada por Objetos - Teoria\TRABALHO FINAL\ProjetoGestãoPOOFinal\ProjetoGestãoPOOFinal\obj\Debug\ProjetoGestãoPOOFinal.csproj.GenerateResource.cache
+C:\repos\Cursos\POO_Teoria_E_Lab\Programação Orientada por Objetos - Teoria\TRABALHO FINAL\ProjetoGestãoPOOFinal\ProjetoGestãoPOOFinal\obj\Debug\ProjetoGestãoPOOFinal.csproj.CoreCompileInputs.cache
+C:\repos\Cursos\POO_Teoria_E_Lab\Programação Orientada por Objetos - Teoria\TRABALHO FINAL\ProjetoGestãoPOOFinal\ProjetoGestãoPOOFinal\obj\Debug\pt-BR\ProjetoGestãoPOOFinal.resources.dll
+C:\repos\Cursos\POO_Teoria_E_Lab\Programação Orientada por Objetos - Teoria\TRABALHO FINAL\ProjetoGestãoPOOFinal\ProjetoGestãoPOOFinal\obj\Debug\ProjetoGestãoPOOFinal.exe
+C:\repos\Cursos\POO_Teoria_E_Lab\Programação Orientada por Objetos - Teoria\TRABALHO FINAL\ProjetoGestãoPOOFinal\ProjetoGestãoPOOFinal\obj\Debug\ProjetoGestãoPOOFinal.pdb
