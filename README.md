@@ -1,6 +1,6 @@
 # Projeto de gestão de frota
  
-<h2>Olá!👋</h2>
+<h2>Olá</h2>
 
 <h3>Esse projeto foi desenvolvido com o objetivo de criar um sistema de gestão de frota de veículos, utilizando o paradigma de Programação Orientada a Objetos e a linguagem C#.</h4>
 
